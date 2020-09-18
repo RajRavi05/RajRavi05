@@ -5,8 +5,8 @@
 ## I'm a CS Student,Front-end Web developer!
 
 - 🔭 I’m currently working on a javascript projects
-- 🌱 I’m currently learning web technologies💻
-- 🥅 I'm a JavaScript enthusiast 😅
+- 📖 I’m currently learning web technologies💻
+- 🕶️ I'm a JavaScript enthusiast 😅
 
 
 
