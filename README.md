@@ -13,6 +13,7 @@
 ### Get in touch:
 [<img align="left" alt="raj ravi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/rajrv55)
 [<img align="left" alt="raj ravi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/rajravi05/)
+[<img align="left" alt="raj ravi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/rajravi.rajravi.39)
 <br />
 <br />
 <br />
