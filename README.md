@@ -5,7 +5,7 @@
 ## I'm a CS Student, Front-end Web developer!
 
 - 🔭 I’m currently working on a javascript projects
-- 📖 I’m currently learning Reactjs💻
+- 📖 I’m currently learning React💻
 - 🕶️ I'm a JavaScript enthusiast 😅
 
 
