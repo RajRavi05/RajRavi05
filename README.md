@@ -4,8 +4,7 @@
 
 ## I'm a Front-end Web developer, Computer Science Engineer.
 
-- 🔭 I’m currently working on javascript projects
-- 📖 I’m currently learning React💻
+- 🔭 I’m currently working on javascript/langchain projects
 - 🕶️ I'm a JavaScript enthusiast 😅
 
 
