@@ -1,9 +1,9 @@
 ## Hi there, I'm Raj Ravi 👋
 
-## I'm a Front-end Web developer, Computer Science Engineer.
+## GenAI Full-stack developer, Computer Science Engineer.
 
-- 🔭 I’m currently working on javascript/langchain projects
-- 🕶️ I'm a JavaScript enthusiast 😅
+- 🔭 I’m currently building genai products, ai agents
+-  Building "THE INFINI AI"
 
 
 
